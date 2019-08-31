@@ -22,14 +22,6 @@ export default class Contact extends Component {
                    <p><a href="#">blmeena1991@gmail.com</a></p>
                  </div>
                </div>
-               <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
-                 <div className="colorlib-icon">
-                   <i className="icon-phone" />
-                 </div>
-                 <div className="colorlib-text">
-                   <p><a href="tel://">+917387423724</a></p>
-                 </div>
-               </div>
              </div>
              <div className="col-md-7 col-md-push-1">
                <div className="row">
